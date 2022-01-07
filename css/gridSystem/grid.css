@@ -20,8 +20,8 @@ l-large _ PC
   margin-left: -4px;
   margin-right: -4px;
 }
-.row.no-wrap{
- flex-wrap: nowrap;
+.row.no-wrap {
+  flex-wrap: nowrap;
 }
 .row.no-gutters {
   margin-left: 0;
